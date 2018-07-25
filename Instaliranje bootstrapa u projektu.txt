@@ -1,0 +1,8 @@
+Za instaliranje bootrapa u trenutni projekt potrebno je:
+
+1. otiæi na https://getbootstrap.com/docs/4.1/getting-started/download/ 
+te pokupiti naredbu instalacije za npm. Izvršiti naredbu unutar projekta (npr. npm install bootstrap)
+
+2. importati u styles.css fajl bootstrap.min.css koji se instalirao 
+(npr. @import '../node_modules/bootstrap/dist/css/bootstrap.min.css')
+
